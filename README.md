@@ -47,7 +47,7 @@ I want to be a **Frontend Developer** or **Full Stack Developer**.
 
 ### **Socials**
 <p align="left">
-  <a href="https://www.facebook.com/yourusername" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/yourusername https://www.facebook.com/praphan.pp" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
