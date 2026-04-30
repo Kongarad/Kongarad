@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 ### Student
-I want to be a **Frontend Developer** or **Full Stack Developer**.
+I want to be a **Frontend Developer** or **Software Tester**.
 
 - 🌍 I'm based in Chiang Mai, Thailand  
 - 🖥️ See my portfolio at [Web CPEarena](https://cpearena.vercel.app/)  
